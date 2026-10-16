@@ -1,0 +1,7 @@
+# Builds locais
+*.apk
+
+# Ferramentas e notas locais (não versionar)
+.claude/
+.mcp.json
+docs/
